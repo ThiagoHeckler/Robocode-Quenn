@@ -58,9 +58,7 @@ O radar permanece travado no inimigo utilizando overshoot para evitar perda de r
 ---
 
 ## ✦ Estrutura do Projeto
-  aaaa/
-  ├── Queen.java
-  └── README.md
+  aaaa/Queen.java
 
 O arquivo deve ser colocado em:
   /robocode/robots/aaaa/Queen.java
