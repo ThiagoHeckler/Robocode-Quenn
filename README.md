@@ -1,4 +1,4 @@
-# Queen — Robocode AI Bot
+# Queen — Robocode
 
 Queen é um robô avançado desenvolvido para Robocode, combinando mira preditiva, movimentação adaptativa e um sistema simples de aprendizado baseado no comportamento do inimigo. O objetivo é melhorar continuamente sua precisão e evasão ao longo das batalhas, tornando-o competitivo em duelos 1v1.
 
